@@ -72,7 +72,7 @@ int main()
 
     // build and compile shaders
     // -------------------------
-    Shader ourShader("1.model_loading.vs", "1.model_loading.fs");
+    Shader ourShader("1.2.model_loading_light.vs", "1.2.model_loading_light.fs");
 
     // load models
     // -----------
